@@ -9,7 +9,7 @@ var obj = {
     "B": "sounds/tom-1.mp3",
     "H": "sounds/tom-2.mp3",
     "A": "sounds/tom-3.mp3",
-    "J": "sounds/tom-4.mp3",
+    "G": "sounds/tom-4.mp3",
     "A": "sounds/snare.mp3",
     "'": "sounds/crash.mp3",
     "S": "sounds/kick-bass.mp3"
